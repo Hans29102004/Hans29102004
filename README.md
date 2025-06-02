@@ -1,4 +1,4 @@
-## Hi there , Moi C'est Hans👋
+## Hi there , Hans Honlonkou👋
 🎓 Étudiant passionné en informatique, <br>
 💡 Curieux de nature, je considère le jeu vidéo comme le carrefour ultime de toutes les disciplines créatives et techniques de l'informatique. <br>
 🚀 Avec une panoplie de compétence développement web, mobile, desktop, la modélisation 3D (Blender), le développement de jeux vidéo (Unity), et le montage vidéo.. <br>
