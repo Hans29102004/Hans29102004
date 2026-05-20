@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hans Honlonkou</h1>
-  <p><em>Développeur UI/UX & Game Creator</em></p>
-  <p>Je transforme des idées en expériences digitales fluides, immersives et visuellement marquantes.</p>
+  <p><em>Étudiant en informatique | Développeur UI/UX & Game Creator</em></p>
+  <p>Je suis passionné par les interfaces claires, les jeux interactifs et les expériences qui donnent envie de revenir.</p>
   <p>
     <a href="https://www.linkedin.com/in/hans-honlonkou-424728261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:honlonkouhans0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -11,33 +11,33 @@
 ---
 
 ## 🎯 En bref
-Je conçois des produits numériques qui mettent l’utilisateur au centre :
-- jeux Unity avec interface intuitive et gameplay bien dosé,
-- applications web et mobiles pensées pour l’usage réel,
-- visuels 3D et motion design pour des présentations fortes.
+J’aime raconter des histoires numériques avec du code, du design et du gameplay.
+- je crée des jeux Unity qui restent simples à prendre en main,
+- je conçois des applis web et mobiles qui répondent aux besoins réels des utilisateurs,
+- je réalise des visuels 3D et des animations pour des supports visuels forts.
 
-## 🌟 Valeur ajoutée
-- Design centré utilisateur avec un mélange UI/UX et game design
-- Prototypes interactifs rapides et livrables
-- Interfaces propres, modernes et faciles à comprendre
-- Expérience cross-plateforme : web, mobile, desktop, jeux
+## 🌟 Ce que j’apporte
+- une approche centrée utilisateur, inspirée par l’UI/UX et le game design
+- des prototypes rapides pour tester des idées concrètes
+- des interfaces soignées, faciles à lire et agréables à utiliser
+- une vision cross-plateforme entre web, mobile et jeu vidéo
 
 ---
 
-## 🧭 Expertise clés
-- **UI & UX Design** — architecture d’écran, micro-interactions, accessibilité
-- **Jeux / Interaction** — prototypage Unity, HUD, gameplay 2D/3D
-- **Applications web** — interfaces responsive, flows utilisateurs, composants React
-- **Illustration & 3D** — Blender, motion design, assets graphiques adaptables
+## 🧭 Mes domaines
+- **UI & UX Design** — je crée l’architecture des écrans, les micro-interactions et des interfaces accessibles
+- **Jeu / Interaction** — je développe des prototypes Unity avec des mécaniques simples et efficaces
+- **Applications web** — je conçois des expériences responsives et des flows utilisateur clairs
+- **Illustration & 3D** — j’utilise Blender pour créer des assets et des animations visuelles
 
 ---
 
 ## 🚀 Projets remarquables
-| Projet | Pourquoi c’est fort | Tech Stack |
+| Projet | Ce que j’ai fait | Tech Stack |
 |---|---|---|
-| **Jeu Unity prototype** | Interface de jeu fluide, système de feedback visuel et UI immersive | Unity · C# · Blender |
-| **Portfolio UI/UX** | Design professionnel pour présenter un univers créatif et structurer l’information | React · HTML · CSS · Figma |
-| **Animation 3D concept** | Scène 3D animée avec ambiance visuelle forte et rendu premium | Blender · Adobe XD |
+| **Prototype de jeu Unity** | Création d’un prototype interactif avec interface claire et retours visuels immédiats | Unity · C# · Blender |
+| **Portfolio UI/UX** | Conception d’une vitrine moderne pour exposer mes projets et mon univers | React · HTML · CSS · Figma |
+| **Concept 3D animé** | Réalisation d’une scène 3D immersive pour un support de présentation visuel | Blender · Adobe XD |
 
 ---
 
