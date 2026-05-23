@@ -64,7 +64,7 @@ J’aime raconter des histoires numériques avec du code, du design et du gamepl
 ## 📬 Contact rapide
 - LinkedIn : [linkedin.com/in/hans-honlonkou-424728261](https://www.linkedin.com/in/hans-honlonkou-424728261)
 - Email : [honlonkouhans0@gmail.com](mailto:honlonkouhans0@gmail.com)
-- WhatsApp : [+33 6 XX XX XX XX](https://wa.me/33600000000)
+- WhatsApp : [+229 50 11 15 55](https://wa.me/2290150111555)
 
 ---
 
